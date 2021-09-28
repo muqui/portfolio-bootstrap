@@ -1,7 +1,7 @@
 # portfolio-bootstrap
-
 <h3>Demo</h3>
-<a href="https://albertocoronanavarro.com/" target="_blank" class="text-dark me-2">http://albertocoronanavarro.com</a>
+<a href="https://albertocoronanavarro.com/" target="_blank" >https://albertocoronanavarro.com</a>
+<p>This is my portfolio was created on bootstrap.</p>
 <h2>Home</h2>
 
 ![home](pictures/home.png)
